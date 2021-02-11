@@ -1,2 +1,5 @@
 # hello-world
-greetings
+
+greetings!
+
+It's time to familiarize myself with github :)
